@@ -15,7 +15,7 @@ let newStudent = (arr) => {
     return addStudent;
 }
 
-//this function pushes the new student to the classresults array
+//this function pushes the new student to the results array
 function splitStudents2(arr) {
     for (let i of arr) {
     nameArr = nameSplitter(i);
