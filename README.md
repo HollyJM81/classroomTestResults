@@ -2,8 +2,7 @@
 
 A simple set of functions to take an array of student names as strings, and a) generate a new array of student objects, with first and last names; b) add subject and grade as a new key-value pair to any given student.
 
-
-This is my first piece of unprompted code (of more than 1 statement), and I used it to practice some of the javascript concepts and methods I was finding more challenging to understand.
+This is my first piece of code (of more than 1 statement) outside of coding courses, and I have used it to practice some of the javascript concepts and methods I was finding more challenging to understand.
 
 As at 24-01-21 it is (what I understand to be) back end only. That is to say, I haven't added an interface with html and css.
 
