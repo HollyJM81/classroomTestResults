@@ -4,6 +4,4 @@ A simple set of functions in javascript to take an array of student names as str
 
 This is my first piece of code (of more than 1 statement) outside of coding courses, and I have used it to practice some of the javascript concepts and methods I was finding more challenging to understand.
 
-As at 24-01-21 it is (what I understand to be) back end only. That is to say, I haven't added an interface with html and css.
-
 Next step: I would like to make a dynamic, single page deployment that demonstrates how a user interface might work.
